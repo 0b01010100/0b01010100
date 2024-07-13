@@ -38,7 +38,7 @@ I am a developer. I am most experienced in C++, C, and C#, with formal education
 		style="height: 50px; width: auto"
 	/>
 </a>
-<a href="https://code.visualstudio.com/">
+<a href="https://visualstudio.microsoft.com/">
 	<img
 		src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/800px-Visual_Studio_Icon_2022.svg.png"
 		style="height: 50px; width: auto"
