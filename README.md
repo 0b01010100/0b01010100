@@ -56,3 +56,9 @@ I'm Into Low Level Programing and Game Development. I am most experienced in BAS
 		style="height: 50px; width: auto"
 	/>
 </a>
+<a href="https://wiki.libsdl.org/SDL2/FrontPage">
+	<img
+		src="https://upload.wikimedia.org/wikipedia/commons/5/51/SDL_Logo.png"
+		style="height: 50px; width: auto"
+	/>
+</a>
