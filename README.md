@@ -2,7 +2,7 @@
 
 ## About Me:
 
-I am a developer. I am most experienced in C++, C, and C#, with formal education in C, Python. I am always working on a project, so feel free to look around.
+I'm Into Low Level Programing and Game Development. I am most experienced in BASH, C++, C, C#, JSON, and CMake, with formal education in C++, C#, and Python. I am always working on a project, so feel free to look around.
 
 <h2>My Experience:</h2>
 <h4>Languages:</h4>
