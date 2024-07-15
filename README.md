@@ -64,7 +64,7 @@ I'm Into Low Level Programing and Game Development. I am most experienced in BAS
 </a>
 <a href="https://en.wikipedia.org/wiki/DirectX#DirectX_11">
 	<img
-		src="https://www.visualstudio-staging.com/directx/wp-content/uploads/sites/42/2017/01/XII_BLACK_1kx1k.jpg"
+		src="https://getpcsoft.wikisend.com/img_howto/0/140/Pic%201.png"
 		style="height: 50px; width: auto"
 	/>
 </a>
