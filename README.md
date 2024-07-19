@@ -6,19 +6,6 @@ I'm Into Low Level Programing and Game Development. I am most experienced in BAS
 
 
 <h2>My Experience:</h2>
-<style>
- @keyframes rotate {
-      from {
-        transform: rotate(0deg);
-      }
-      to {
-        transform: rotate(360deg);
-      }
-    }
-    .rotate-icon {
-      animation: rotate 2s linear infinite;
-    }
-</style>    
 <h4>Languages:</h4>
 <a href="https://en.cppreference.com/w/c/language">
 	<img
