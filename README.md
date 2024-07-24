@@ -9,8 +9,12 @@ I'm passionate about Low-Level Programming and Game Development. My expertise in
 ### Languages
 <div style="display: flex; align-items: center;">
   <a href="https://en.wikipedia.org/wiki/X86_assembly_language">
-    <img src="https://i.pinimg.com/originals/8c/b1/8c/8cb18c72082d13eb581cf6d452e8e266.png" alt="x86 Assembly" height="50" style="animation: float 2s infinite;">
-  </a>
+  <svg width="50" height="50" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+    <image href="https://i.pinimg.com/originals/8c/b1/8c/8cb18c72082d13eb581cf6d452e8e266.png" height="50" width="50">
+      <animate attributeType="XML" attributeName="y" from="0" to="-10" dur="0.5s" repeatCount="indefinite"/>
+    </image>
+  </svg>
+</a>
   <a href="https://en.cppreference.com/w/c/language">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="C" height="50" style="animation: float 2s infinite;">
   </a>
