@@ -9,7 +9,7 @@ I'm Into Low Level Programing and Game Development. I am most experienced in BAS
 <h4>Languages:</h4>
 <a href="https://en.wikipedia.org/wiki/X86_assembly_language">
 	<img
-		src="https://p.e-words.jp/img/x86.png"
+		src="https://i.pinimg.com/originals/8c/b1/8c/8cb18c72082d13eb581cf6d452e8e266.png"
 		style="height: 50px; width: auto"
 	/>
 </a>
