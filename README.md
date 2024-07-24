@@ -57,16 +57,3 @@ I'm passionate about Low-Level Programming and Game Development. My expertise in
   </a>
 </div>
 
-<style>
-@keyframes float {
-  0% {
-    transform: translatey(0px);
-  }
-  50% {
-    transform: translatey(-10px);
-  }
-  100% {
-    transform: translatey(0px);
-  }
-}
-</style>
