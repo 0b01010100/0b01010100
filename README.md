@@ -26,6 +26,9 @@ I'm passionate about Low-Level Programming and Game Development. My expertise in
   <a href="https://www.python.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png" alt="Python" height="50" style="animation: float 2s infinite;">
   </a>
+  <a href="https://cmake.org/">
+    <img src="https://cmake.org/wp-content/uploads/2023/08/CMake-Mark-1.svg" alt="CMake" height="50" style="animation: float 2s infinite;">
+  </a>
 </div>
 
 ### Frameworks and Technologies
@@ -47,9 +50,6 @@ I'm passionate about Low-Level Programming and Game Development. My expertise in
   </a>
   <a href="https://en.wikipedia.org/wiki/DirectX#DirectX_11">
     <img src="https://getpcsoft.wikisend.com/img_howto/0/140/Pic%201.png" alt="DirectX" height="50" style="animation: float 2s infinite;">
-  </a>
-  <a href="https://cmake.org/">
-    <img src="https://cmake.org/wp-content/uploads/2023/08/CMake-Mark-1.svg" alt="CMake" height="50" style="animation: float 2s infinite;">
   </a>
 </div>
 
