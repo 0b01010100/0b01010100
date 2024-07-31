@@ -23,6 +23,9 @@ I'm passionate about Low-Level Programming and Game Development. My expertise in
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
     <img src="https://www.netgen.co.za/wp-content/uploads/2022/03/C-image-for-Netgen-1024x1024.png" alt="C#" height="50" style="animation: float 2s infinite;">
   </a>
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://banner2.cleanpng.com/20180705/txh/kisspng-bash-shell-script-command-line-interface-z-shell-5b3df571eaf1a4.5375084915307871859623.jpg" alt="x86 Assembly" height="50" style="animation: float 2s infinite;">
+  </a>
   <a href="https://www.python.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png" alt="Python" height="50" style="animation: float 2s infinite;">
   </a>
