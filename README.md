@@ -32,6 +32,9 @@ I'm a 17 year old passionate about Low-Level Programming and Game Development. M
   <a href="https://cmake.org/">
     <img src="https://cmake.org/wp-content/uploads/2023/08/CMake-Mark-1.svg" alt="CMake" height="50" style="animation: float 2s infinite;">
   </a>
+  <a href="https://www.mathworks.com/products/matlab.html">
+    <img src="https://banner2.cleanpng.com/20181117/xr/kisspng-logo-control-engineering-matlab-simulation-simulin-mark-mac-crimmon-mechanical-engineering-student-5bf0c8afb68075.4179864715425066717475.jpg" height="50" alt="MatLab" style="animation: float 2s infinite;">
+  </a>
 </div>
 
 ### Frameworks and Technologies
