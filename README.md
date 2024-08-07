@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a 17 year old passionate about Low-Level Programming and Game Development. My expertises includes BASH, C++, C, C#, JSON, and CMake. I have formal education in C++, C#, and Python. I'm always working on a project, so feel free to look around!
+I'm a 17 year old passionate about Low-Level Programming and Game Development. My expertises includes BASH, C++, C, C#, JSON, and CMake. I have formal education in C++, C#, and Python. I'm always working on a project and learning something new, so feel free to look around!
 
 ## My Experience
 
