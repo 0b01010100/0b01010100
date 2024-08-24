@@ -18,7 +18,7 @@ I'm a 17 year old passionate about Low-Level Programming and Game Development. I
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="50" style="animation: float 2s infinite;">
   </a>
   <a href="https://en.wikipedia.org/wiki/High-Level_Shader_Language">
-    <img src="https://th.bing.com/th/id/OIP.AB4qc9VYOYwoipJ6MvtXVAAAAA?rs=1&pid=ImgDetMain" alt="HLSL" height="50" style="animation: float 2s infinite;">
+    <img src="https://filenp.com/images/extension/256/hlsl.png" alt="HLSL" height="50" style="animation: float 2s infinite;">
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
     <img src="https://www.netgen.co.za/wp-content/uploads/2022/03/C-image-for-Netgen-1024x1024.png" alt="C#" height="50" style="animation: float 2s infinite;">
