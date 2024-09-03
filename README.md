@@ -1,12 +1,12 @@
 # 👋 Hi, I’m Mr. Taylor
 
-## About Me
+## 🚀 About Me
 
 I'm a 17 year old passionate about Low-Level Programming and Game Development. I've fell I love with coding at age ~11-12. My expertises includes BASH, C++, C, C#, JSON, and CMake. I have formal education in C++, C#, and Python. I'm always working on a project and learning something new, so feel free to look around!
 
-## My Experience
+## 💻 My Experience
 
-### Languages
+### 🛠️ Languages
 <div style="display: flex; align-items: center;">
   <a href="https://en.wikipedia.org/wiki/X86_assembly_language">
     <img src="https://i.pinimg.com/originals/8c/b1/8c/8cb18c72082d13eb581cf6d452e8e266.png" alt="x86 Assembly" height="50" style="animation: float 2s infinite;">
@@ -37,7 +37,7 @@ I'm a 17 year old passionate about Low-Level Programming and Game Development. I
   </a>
 </div>
 
-### Frameworks and Technologies
+### 🔧 Frameworks and Technologies
 <div style="display: flex; align-items: center;">
   <a href="https://code.visualstudio.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" height="50" style="animation: float 2s infinite;">
@@ -57,5 +57,11 @@ I'm a 17 year old passionate about Low-Level Programming and Game Development. I
   <a href="https://en.wikipedia.org/wiki/DirectX#DirectX_11">
     <img src="https://getpcsoft.wikisend.com/img_howto/0/140/Pic%201.png" alt="DirectX" height="50" style="animation: float 2s infinite;">
   </a>
+</div>
+📊 GitHub Stats
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=0b01010100&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="400" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0b01010100&theme=dark&hide_border=true" alt="GitHub Streak" width="400" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0b01010100&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="800" height="200" />
 </div>
 
