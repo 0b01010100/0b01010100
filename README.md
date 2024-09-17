@@ -65,6 +65,6 @@ I'm a 17 year old passionate about Low-Level Programming and Game Development. I
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=0b01010100&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="400" height="200" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0b01010100&theme=dark&hide_border=true" alt="GitHub Streak" width="400" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0b01010100&theme=dark&hide_border=true&include_all_commits=false&count_private=false&langs_count=7" alt="Top Languages" width="1000" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0b01010100&theme=dark&hide_border=true&include_all_commits=false&count_private=false&langs_count=7" alt="Top Languages" width="1000" height="500"/>
 </div>
 
