@@ -33,7 +33,7 @@ I'm a 17 year old passionate about Low-Level Programming and Game Development. I
     <img src="https://cmake.org/wp-content/uploads/2023/08/CMake-Mark-1.svg" alt="CMake" height="50" style="animation: float 2s infinite;">
   </a>
   <a href="https://www.mathworks.com/products/matlab.html">
-    <img src="https://banner2.cleanpng.com/20181117/xr/kisspng-logo-control-engineering-matlab-simulation-simulin-mark-mac-crimmon-mechanical-engineering-student-5bf0c8afb68075.4179864715425066717475.jpg" height="50" alt="MatLab" style="animation: float 2s infinite;">
+    <img src="https://en.wikipedia.org/wiki/Java_(programming_language)#/media/File:Java_programming_language_logo.svg" height="50" alt="MatLab" style="animation: float 2s infinite;">
   </a>
     <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
     <img src="Java" height="50" alt="Java" style="animation: float 2s infinite;">
