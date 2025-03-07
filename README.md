@@ -61,9 +61,3 @@ I'm a 17 year old passionate about Low-Level Programming and Game Development. I
     <img src="https://getpcsoft.wikisend.com/img_howto/0/140/Pic%201.png" alt="DirectX" height="50" style="animation: float 2s infinite;">
   </a>
 </div>
-📊 GitHub Stats
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=0b01010100&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="400" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0b01010100&theme=dark&hide_border=true" alt="GitHub Streak" width="400" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0b01010100&theme=dark&hide_border=true&include_all_commits=false&count_private=false&langs_count=9" alt="Top Languages" width="1000" height="500"/>
-</div>
